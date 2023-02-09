@@ -14,7 +14,7 @@
         android:theme="@style/Theme.ValidationDemo"
         tools:targetApi="31">
         <activity
-            android:name=".RefisterActivity"
+            android:name=".RegisterActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

@@ -10,7 +10,7 @@ import android.view.View
 import android.widget.EditText
 import com.example.validationdemo.databinding.ActivityMainBinding
 
-class RefisterActivity : AppCompatActivity(), View.OnClickListener, View.OnFocusChangeListener,
+class RegisterActivity : AppCompatActivity(), View.OnClickListener, View.OnFocusChangeListener,
     View.OnKeyListener {
 
     private lateinit var binding: ActivityMainBinding
